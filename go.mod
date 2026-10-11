@@ -1,4 +1,4 @@
-module ximilab.gitlab.yandexcloud.net/go/go-spew
+module github.com/Bonifats/go-spew
 
 go 1.26.6
 

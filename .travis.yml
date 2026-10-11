@@ -1,5 +1,5 @@
 language: go
-go_import_path: ximilab.gitlab.yandexcloud.net/go/go-spew
+go_import_path: github.com/Bonifats/go-spew
 go:
     - 1.6.x
     - 1.7.x
